@@ -2,8 +2,7 @@ package school.mjc.stage0.loops.task4;
 
 public class TwoRangesSum {
     public void printSumOfTwoRanges(int numberToSkip, int lastInRow) {
-       static void printSumOfTwoRanges(int numberToSkip, int lastInRow) {
-        int sum = 0;
+              int sum = 0;
         int sum2 = 0;
         int rev = 0;
         if (lastInRow < 0) {
